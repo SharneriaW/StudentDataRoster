@@ -13,8 +13,8 @@ int main(){
     //1. Print course title, programming language, student ID, and name.
     cout << "Course Title: C867 - Scripting and Programming Applications\n";
     cout << "Programming Language: C++\n";
-    cout << "Student ID: 011983085\n";
-    cout << "Name: Sharneria Wright\n";
+    cout << "Student ID: 0000000\n";
+    cout << "Name: BLANK \n";
     cout << endl;
     
     Roster classRoster;
@@ -25,7 +25,7 @@ int main(){
      "A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
      "A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
      "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-     "A5,Sharneria,Wright,swri780@wgu.edu,22,16,20,30,SOFTWARE"
+     "A5,BLANK,BLANK,BLANK@gmail.com,22,16,20,30,SOFTWARE"
     };
     
     cout<< "Displaying all students:";
